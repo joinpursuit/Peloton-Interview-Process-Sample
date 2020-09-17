@@ -43,7 +43,7 @@ During the interview, the following points will be covered:
 
 #### Interview Questions
 
-In order to standardize the interview process, please use one of the curated interview questions from the list below.
+Recommended questions:
 
 1. [Common Elements of Two Arrays](./technical-screen-questions/commonElementsOfTwoArrays.md)
 1. [k Weakest Rows in Matrix](./technical-screen-questions/kWeakestRowsInMatrix.md)
