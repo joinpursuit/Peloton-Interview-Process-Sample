@@ -55,16 +55,6 @@ In order to standardize the interview process, please use one of the curated int
 1. [Second Largest](./technical-screen-questions/secondLargest.md)
 1. [Validate Parentheses](technical-screen-questions/validateParentheses.md)
 
-#### Rubric
-
-After completing an interview, fill out a rubric evaluation similar to the link [here](https://forms.gle/rxtyyWjqKVnW7B1UA).  Key abilities to note:
-
-- Understanding the Prompt
-- Designing a Solution
-- Implementing a Solution
-- Presentation
-
-
 ## 3. Final Round + Project Walkthrough
 
 **Purpose**:  Understand the work that an applicant can produce and make a final decision.
