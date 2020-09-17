@@ -2,6 +2,8 @@
 
 ## Introduction
 
+This process is designed for a new apprenticeship program at Peloton.  Successful apprentices will enter Peloton with sound programming fundamentals as well as stack-specific knowledge.  The process outlined below is a draft of how Peloton could structure their interview process to ensure that apprentices will come in prepared for the work ahead.
+
 ## Process
 
 1. HR Phone Screen
@@ -9,7 +11,7 @@
 1. Final Round + Project walkthrough
 
 
-### 1. HR Phone Screen
+## 1. HR Phone Screen
 
 **Purpose**:  Establish that the applicant meets the baseline requirements for the position and has sufficiently researched the company.
 
@@ -24,7 +26,7 @@ During the interview, the following points will be covered:
 - Previous education / work history
 - Basic behavioral questions
 
-### 2. Technical Screen
+## 2. Technical Screen
 
 **Purpose**: Ensure that the applicant meets the technical bar set for the position.
 
@@ -63,13 +65,13 @@ After completing an interview, fill out a rubric evaluation similar to the link 
 - Presentation
 
 
-### 3. Final Round + Project Walkthrough
+## 3. Final Round + Project Walkthrough
 
 **Purpose**:  Understand the work that an applicant can produce and make a final decision.
 
 **Duration**: 60 minutes
 
-**Structure**: Zoom Call
+**Structure:**: Zoom Call
 
 In the final round interview, a fellow will present an application that they've worked on before.  The interviewer will ask them technical questions about their project to gauge their level of expertise.  Good answers will reveal an understanding of core stack-specific concepts.
 
