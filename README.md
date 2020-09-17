@@ -32,7 +32,7 @@ During the interview, the following points will be covered:
 
 **Duration**: 45 - 60 minutes
 
-**Structure** Zoom call with coding platform
+**Structure**: Zoom call with coding platform
 
 | Activity | Description | Time |
 | --- | --- | --- |
@@ -71,7 +71,7 @@ After completing an interview, fill out a rubric evaluation similar to the link 
 
 **Duration**: 60 minutes
 
-**Structure:**: Zoom Call
+**Structure**: Zoom Call
 
 In the final round interview, a fellow will present an application that they've worked on before.  The interviewer will ask them technical questions about their project to gauge their level of expertise.  Good answers will reveal an understanding of core stack-specific concepts.
 
