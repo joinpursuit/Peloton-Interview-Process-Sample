@@ -34,11 +34,11 @@ During the interview, the following points will be covered:
 
 **Structure**: Zoom call with coding platform
 
-| Activity | Description | Time |
-| --- | --- | --- |
-| Introductions and explanation of problem | Pretend like this is a real interview, and get right into it | 5 minutes |
-| Applicant whiteboards solution | Give hints and feedback | 35 minutes |
-| End interview and wrap-up | Share general feedback | 5 minutes |
+| Activity  | Time |
+| --- | --- |
+| Introductions and explanation of problem | 5 minutes |
+| Applicant whiteboards solution | 35 minutes |
+| End interview and wrap-up | 5 minutes |
 
 
 #### Interview Questions
